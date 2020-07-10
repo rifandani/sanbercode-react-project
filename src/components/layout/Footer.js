@@ -58,7 +58,7 @@ export default class Footer extends Component {
             © 2020 Tri Rizeki Rifandani
             <a
               className="grey-text text-lighten-4 right"
-              href="https://codesandbox.io/s/my-blog-posts-ckhi2"
+              href="https://codesandbox.io/s/sanbercode-react-zccxy"
             >
               Codesandbox
             </a>
